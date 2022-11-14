@@ -1,14 +1,8 @@
 ---
-id: projects
-title: Projects
+id: CSC256Lesson09
+title: CSC256Lesson09
 ---
 
-Embed any notable projects in this page.
+This project is designed to use an API to search DuckDuckGo and return the results of "Presidents of the United States". It then compares the results with a list of all of the presidents last names, and uses a Pytest module to ensure that every last name is returned in the results at least once.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Screenshot of the project github landing page](./assets/portfolioprojectpic.jpg)
